@@ -1,0 +1,8 @@
+# Sample Honeypot Log Data
+# Real logs contain actual attacker IPs - this is example data only
+
+2024-01-01 10:15:30,123 - INFO - Honeypot listening on 0.0.0.0:2222
+2024-01-01 10:20:45,678 - INFO - New connection from 192.0.2.1:54321
+2024-01-01 10:20:46,123 - INFO - Data from 192.0.2.1: admin
+2024-01-01 10:20:47,456 - INFO - Data from 192.0.2.1: password123
+2024-01-01 10:25:12,789 - INFO - New connection from 203.0.113.5:49234

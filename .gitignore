@@ -1,0 +1,8 @@
+Log files - contain sensitive attacker data
+*.log
+connections.log
+honeypot.log
+
+Python cache
+pycache/
+*.pyc
